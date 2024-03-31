@@ -2,4 +2,4 @@
 
 Tiny password manager for Android currently
 
-[!img](https://imgur.com/UvGVR5W.png)
+![img](https://imgur.com/UvGVR5W.png)
